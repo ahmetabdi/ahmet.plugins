@@ -5,8 +5,9 @@ https://github.com/eddorre/SublimeERB -- "ERB Insert and Toggle Commands"
 
 Keybinds 
 
+``` haxe
 [
   { "keys": ["f1"], "command": "open_terminal_project_folder" },
   { "keys": ["f2"], "command": "erb" }
 ]
-
+```

@@ -1,0 +1,11 @@
+// ALT + SHIFT + 2 -- two columns
+// ALT + Numbers - change tab
+// CTRL + Numbers - change column
+// CTRL + X - cut whole line
+[
+  { "keys": ["f1"], "command": "open_terminal_project_folder" },
+  { "keys": ["f2"], "command": "erb" },
+  { "keys": ["f3"], "command": "beautify_ruby" },
+  { "keys": ["ctrl+d"], "command": "find_under_expand" }, // Replace highlighted text for all occurrences
+  { "keys": ["ctrl+r"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} } // find a file
+]

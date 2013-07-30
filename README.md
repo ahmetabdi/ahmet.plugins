@@ -12,4 +12,5 @@ https://github.com/facelessuser/ApplySyntax<br> Detect and apply the syntax of f
 https://github.com/CraigWilliams/BeautifyRuby<br>
 https://github.com/sobstel/SyncedSideBar -- "SyncedSideBar"<br>
 https://github.com/Monnoroch/ColorHighlighter<br>
-"Modific"
+"Modific"<br>
+https://github.com/dz0ny/LiveReload-sublimetext2
